@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+https://developer.okta.com/blog/2018/10/11/build-simple-web-app-with-express-react-graphql
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
